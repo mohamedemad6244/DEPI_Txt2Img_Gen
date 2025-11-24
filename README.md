@@ -65,7 +65,11 @@ Egyptian cafe, Cairo, Nile River, futuristic skyline, tall glass towers, ancient
 
 ### Generated Images
 
-![GEN IMG](assets/img1.png) | ![GEN IMG](assets/img2.png)
+<p align="center">
+  <img src="assets/img1.png" width="48%" />
+  <img src="assets/img2.png" width="48%" />
+</p>
+
 
 
 ## 🛠️ Installation & Setup

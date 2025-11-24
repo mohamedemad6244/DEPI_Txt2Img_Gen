@@ -122,8 +122,8 @@ python gradio_app.py
 ## 📂 Project Structure
 
 ```
-Imagica/
-├── gradio_app.py           # Main Gradio UI
+DEPI_Txt2Img_gen/
+├── main.py           # Main Gradio UI
 ├── prompt_enhancer_module.py   # Gemini API integration
 ├── kandinsky_generator.py  # Kandinsky 2.2 pipeline
 ├── sdxl_generator.py       # SDXL pipeline

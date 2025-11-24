@@ -28,7 +28,7 @@ A state-of-the-art image generation pipeline combining **LLM prompt enhancement*
 4. **User Interface:**\
    The enhanced prompt and generated image are displayed for transparency and learning.
 
-assets/DEPI_Txt2Img_Gen.png
+![Architecture Diagram](assets/DEPI_Txt2Img_Gen.png)
 
 
 ---

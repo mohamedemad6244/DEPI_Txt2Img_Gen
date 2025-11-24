@@ -53,6 +53,20 @@ A state-of-the-art image generation pipeline combining **LLM prompt enhancement*
 
 ---
 
+## 🖼️ Output / Results
+
+Here are some example outputs from **DEPI – Text-to-Image  Generator** using different pipelines.
+
+### Enhanced Prompt
+The enhanced prompt generated for a simple idea:
+Egyptian cafe, Cairo, Nile River, futuristic skyline, tall glass towers, ancient pyramids in background, bustling street scene, warm ambient lighting, golden hour, cinematic, photorealistic, hyper-detailed, octane render, 8K, volumetric lighting, trending on ArtStation, Unreal Engine 5, rim lighting, atmospheric perspective, high contrast, sharp focus, vibrant colors, epic composition, ultra quality.
+
+---
+
+### Generated Images
+
+
+
 ## 🛠️ Installation & Setup
 
 1. **Prerequisites:**

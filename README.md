@@ -64,8 +64,8 @@ A state-of-the-art image generation pipeline combining **LLM prompt enhancement*
 2. **Clone Repository:**
 
 ```bash
-git clone https://github.com/YourUsername/Imagica.git
-cd Imagica
+git clone [https://github.com/YourUsername/Imagica.git](https://github.com/mohamedemad6244/DEPI_Txt2Img_Gen.git)
+cd DEPI_Txt2Img_Gen
 ```
 
 3. **Create Virtual Environment:**

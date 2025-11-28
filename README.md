@@ -93,7 +93,7 @@ Egyptian cafe, Cairo, Nile River, futuristic skyline, tall glass towers, ancient
 2. **Clone Repository:**
 
 ```bash
-git clone [https://github.com/YourUsername/Imagica.git](https://github.com/mohamedemad6244/DEPI_Txt2Img_Gen.git)
+git clone https://github.com/mohamedemad6244/DEPI_Txt2Img_Gen.git
 cd DEPI_Txt2Img_Gen
 ```
 
